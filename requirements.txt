@@ -1,0 +1,21 @@
+python-dotenv
+tqdm
+pandas
+pyarrow
+jinja2
+
+# [LLM]
+openai
+langchain
+
+# [DEV]
+ipykernel
+
+# [SCI]
+scipy
+numpy
+statsmodels
+
+# [VIZ]
+matplotlib
+seaborn
